@@ -24,5 +24,40 @@ namespace MusicPlayer
         {
             InitializeComponent();
         }
+
+        private void AddSongButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ButtonFechar_Click(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(1);
+        }
+
+        private void Reverse_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Shuffle_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Previous_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Next_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            MessageBox.Show("Test");
+        }
     }
 }
