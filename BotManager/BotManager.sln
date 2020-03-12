@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotManager", "BotManager\BotManager.csproj", "{F052E7E3-4877-4AD9-9331-549BE20AB973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "MusicPlayer\MusicPlayer.csproj", "{FD5987BB-8B7A-4BDD-88A9-D49C84A7E3A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F052E7E3-4877-4AD9-9331-549BE20AB973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F052E7E3-4877-4AD9-9331-549BE20AB973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F052E7E3-4877-4AD9-9331-549BE20AB973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5987BB-8B7A-4BDD-88A9-D49C84A7E3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5987BB-8B7A-4BDD-88A9-D49C84A7E3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5987BB-8B7A-4BDD-88A9-D49C84A7E3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5987BB-8B7A-4BDD-88A9-D49C84A7E3A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
